@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.1.0",
-  "minimumSupportedVersion": "1.1.0",
-  "installerUrl": "https://github.com/INtrade-Systems/AutoUpdateApp/releases/download/v1.1.0/AutoUpdateApp-Setup-1.1.0.exe",
-  "releaseNotes": "Release v1.1.0",
-  "sha256": "802873d89701b648fb7913c33f5a32de4eb06a7ef338992bf70455e120d0880e",
-  "publishedAt": "2026-05-21T23:55:44Z"
+  "latestVersion": "1.2.0",
+  "minimumSupportedVersion": "1.2.0",
+  "installerUrl": "https://github.com/INtrade-Systems/AutoUpdateApp/releases/download/v1.2.0/AutoUpdateApp-Setup-1.2.0.exe",
+  "releaseNotes": "Release v1.2.0",
+  "sha256": "1ed1b8a626b3d66b459fd27675181b9f6a5a58b1504db700ad2a3f4af167bbaf",
+  "publishedAt": "2026-05-22T17:23:39Z"
 }
